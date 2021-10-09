@@ -1,6 +1,7 @@
 # A-B_Testing_Online_Store
 
-Project description 1
+**Project description 1**
+
 Context
 Client: big online store. Together with the marketing
 department, we've compiled a list of hypotheses that may help boost
@@ -10,6 +11,7 @@ We need to prioritize these hypotheses, launch an A/B test, and analyze the
 results.
 
 # Description of the data
+
 **Data used in the first part of the project**
 /datasets/hypotheses_us.csv
 - Hypotheses — brief descriptions of the hypotheses
@@ -17,7 +19,8 @@ results.
 - Impact — impact on users, on a scale of one to ten
 - Confidence — confidence in the hypothesis, on a scale of one to ten
 - Effort — the resources required to test a hypothesis, on a scale of one to ten. The higher the Effort value, the more resource-intensive the test.
-<br>
+
+
 **Data used in the second part of the project**
 /datasets/orders_us.csv
 - transactionId — order identifier
@@ -40,13 +43,16 @@ A and group B.
 ## Part 1. Prioritizing Hypotheses
 The file hypotheses_us.csv contains nine hypotheses on boosting an online
 store's revenue with Reach , Impact , Confidence , and Effort specified for each.
+
 The task is to:
-Apply the ICE framework to prioritize hypotheses. Sort them in
+
+- Apply the ICE framework to prioritize hypotheses. Sort them in
 descending order of priority.
-Apply the RICE framework to prioritize hypotheses. Sort them in
+- Apply the RICE framework to prioritize hypotheses. Sort them in
 descending order of priority.
-Show how the prioritization of hypotheses changes when you use RICE
-instead of ICE . Provide an explanation for the changes.
+- Show how the prioritization of hypotheses changes when you use RICE
+instead of ICE . 
+- Provide an explanation for the changes.
 
 ## Part 2. A/B Test Analysis
 You carried out an A/B test and got the results described in the files
