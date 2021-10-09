@@ -2,7 +2,6 @@
 
 **Project description 1**
 
-Context
 Client: big online store. Together with the marketing
 department, we've compiled a list of hypotheses that may help boost
 revenue.
